@@ -39,4 +39,30 @@ matplotlib, seaborn for data visualization
 
 scikit-learn for machine learning algorithms
 
+Visualizations
+1. PCA Scatter Plot
+Visualizes data in two principal components:
+
+2. Elbow Curve
+Determines the optimal number of clusters using the Elbow Method:
+
+3. Customer Clusters
+Displays distinct customer segments in reduced dimensions:
+
+Insights and Next Steps
+Customer Segments:
+Each cluster represents a unique group with shared behavioral traits. Businesses can tailor strategies like targeted advertisements or loyalty programs for each segment.
+
+Further Steps:
+
+Finalizing the cluster report for stakeholders and marketing strategies recommendations.
+Exploring advanced clustering techniques like DBSCAN or Hierarchical Clustering.
+
+Acknowledgments
+Thanks to the e-commerce dataset from Kaggle and the open-source Python libraries that enabled this analysis.
+
+Contact
+Feel free to connect with me on LinkedIn (https://www.linkedin.com/in/paula-gwanchele) for collaboration or discussions!
+
+
 
