@@ -58,10 +58,10 @@ Further Steps:
 Finalizing the cluster report for stakeholders and marketing strategies recommendations.
 Exploring advanced clustering techniques like DBSCAN or Hierarchical Clustering.
 
-Acknowledgments
+Acknowledgments:
 Thanks to the e-commerce dataset from Kaggle and the open-source Python libraries that enabled this analysis.
 
-Contact
+Contact:
 Feel free to connect with me on LinkedIn (https://www.linkedin.com/in/paula-gwanchele) for collaboration or discussions!
 
 
